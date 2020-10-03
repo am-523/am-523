@@ -1,6 +1,7 @@
 ### Hi , i am Asril 👋
 
-![12 – 1](https://user-images.githubusercontent.com/61135648/88133067-689c4600-cc0b-11ea-818c-0d7b2f3a6cba.png)
+![banner github](https://user-images.githubusercontent.com/61135648/94995688-89512680-05d2-11eb-8576-f0bf95fca33d.png)
+
 
 <!----
 Here are some ideas to get you started:

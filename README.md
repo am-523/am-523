@@ -1,9 +1,9 @@
-### Hi , i am Asril 👋
+### Hi , i am Project AM 👋
 
 ![banner github](https://user-images.githubusercontent.com/61135648/94995688-89512680-05d2-11eb-8576-f0bf95fca33d.png)
 
 
-<!----
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---->
+

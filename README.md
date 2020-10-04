@@ -1,7 +1,7 @@
 ### Hi , i am Project AM 👋
 
 ![banner github](https://user-images.githubusercontent.com/61135648/94995688-89512680-05d2-11eb-8576-f0bf95fca33d.png)
-
+<img src="https://github-readme-stats.vercel.app/api?username=mxrch&show_icons=true&hide_border=true&theme=radical" />
 
 
 Here are some ideas to get you started:
